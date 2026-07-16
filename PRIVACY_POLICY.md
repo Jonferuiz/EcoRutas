@@ -8,8 +8,8 @@ La presente Política de Privacidad describe cómo EcoRutas ("nosotros", "nuestr
 
 El responsable del tratamiento de sus datos personales es:
 * **Nombre/Razón Social:** EcoRutas S.A.
-* **Dirección:** Av. Amazonas N34-23 y Corea, Edificio Zafiro, Piso 4, Quito, Ecuador.
-* **Contacto de Privacidad:** privacidad@ecorutas.ec
+* **Dirección:** Av. Sixto Duran Vallen, Edificio Zafiro, Piso 2, Santa Rosa, Ecuador.
+* **Contacto de Privacidad:** EcoRutas@egmail.com
 * **Teléfono:** +593 (2) 555-0199
 
 ## 2. Datos Personales que se Recopilan
