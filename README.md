@@ -29,3 +29,20 @@ Este proyecto forma parte del repositorio de software ético, legal, seguro y so
    ```bash
    git clone [https://github.com/tu-usuario/ecorutas.git](https://github.com/tu-usuario/ecorutas.git)
    cd ecorutas
+   python -m venv venv
+
+ 2. **En Windows:**
+    ```bash
+    venv\Scripts\activate**
+  
+3. **En Linux/Mac:**
+   ```bash
+   source venv/bin/activate**
+
+4. **Instalar Dependencia:**
+   ```bash
+   pip install -r requirements.txt
+5. **Ejecutar el Servidor:**
+   ```bash
+   # Ejemplo asumiendo un entorno con FastAPI o framework similar
+   uvicorn main:app --reload
