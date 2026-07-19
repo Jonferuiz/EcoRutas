@@ -1,9 +1,9 @@
 # 🌿 EcoRutas
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![Estado](https://img.shields.io/badge/estado-en%20desarrollo-orange)
-![Institución](https://img.shields.io/badge/instituci%C3%B3n-Instituto%20BMV-darkred)
+![License: MIT]
+![Python Version]
+![Estado]
+![Institución]
 
 EcoRutas es una plataforma de enrutamiento de tránsito desarrollada en Python, diseñada para calcular y sugerir las rutas vehiculares más eficientes. Su objetivo principal es minimizar el tiempo inactivo en el tráfico y reducir activamente la huella de carbono mediante la optimización inteligente de los trayectos.
 
